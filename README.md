@@ -18,7 +18,7 @@ Building with Visual Studio 2022 using the solution file recommended.
 
 ## Examples
 
-Demo: 
+Demo: https://github.com/wikborr/RoomEngine/releases/tag/1.0
 
 ## Dependencies
 - GLFW
@@ -27,3 +27,6 @@ Demo:
 - stbi
 - spdlog
 - Assimp
+
+## Assets used
+- This work is based on "Modern Interior Design" (https://sketchfab.com/3d-models/modern-interior-design-a245e5c6292047a2a4f93531f402ad81) by gozdemrl (https://sketchfab.com/gozdemrl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
