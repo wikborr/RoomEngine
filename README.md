@@ -20,6 +20,8 @@ Building with Visual Studio 2022 using the solution file recommended.
 
 Demo: https://github.com/wikborr/RoomEngine/releases/tag/1.0
 
+If it doesn't work, you probably need the latest Visual C++ Redistributable: https://aka.ms/vs/17/release/vc_redist.x64.exe
+
 ## Dependencies
 - GLFW
 - GLAD
